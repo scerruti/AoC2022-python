@@ -2,7 +2,7 @@
 
 from pathlib import Path
 
-from aoc.day01 import part1, part2
+from aoc.day03 import part1, part2
 
 def read_file(filename):
     path = Path(__file__).parent.resolve()
